@@ -1,8 +1,8 @@
 /* cyrillic-ext */
 @font-face {
-  font-family: 'UnileverShilling';
+  font-family: 'Unilever Shilling';
   font-style: normal;
   font-weight: 400;
-  src: url(https://www.unileverbrandcentre.com/readimage.aspx/asset.ai?down=1&pubid=HfeFMMiivVBlzYtIoGHD_g) format('woff');
+  src: url(https://github.com/faisalrahman01/Unilever331/raw/main/UnileverShillingFont.woff2) format('woff');
   unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
